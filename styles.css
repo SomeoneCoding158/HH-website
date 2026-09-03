@@ -1,8 +1,9 @@
 /* hakan i am changing the css */
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&display=swap');
+
 body {
     background-color: goldenrod;
 }
-@import url('https://fonts.googleapis.com/css2?family=Asimovian&display=swap');
 
 *{
     font-family:Asimovian; 
