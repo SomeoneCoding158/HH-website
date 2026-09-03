@@ -2,3 +2,9 @@
 body {
     background-color: goldenrod;
 }
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&display=swap');
+
+*{
+    font-family:Asimovian; 
+    color:#00ff00;/*feel free to change color hakan*/
+}
